@@ -53,6 +53,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+    sort_by: title
 
 page_width: 800px
 
