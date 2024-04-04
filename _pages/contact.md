@@ -7,3 +7,6 @@ layout: post
 ---
 
 This is an contact page.
+
+{: .block-tip }
+Tip number 1
