@@ -8,5 +8,7 @@ layout: post
 
 This is an contact page.
 
-{: .block-tip }
-Tip number 1
+> Tip number 1
+>
+> How about this?
+> {: .block-tip }
