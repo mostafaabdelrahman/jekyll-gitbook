@@ -9,3 +9,6 @@ layout: post
 This is an contact page.
 
 Test added !
+
+{: .block-tip }
+Tip number 1
